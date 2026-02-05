@@ -1,0 +1,4 @@
+# Local 환경 설정 및 보안
+.env
+.env.local
+.venv
